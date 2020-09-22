@@ -1,0 +1,13 @@
+frmMainMenu = 21, 9, 532, 485, C, 10, 6, 664, 482, C
+frmPurchMaint = 5, 7, 821, 650, C, 220, 220, 862, 671, C
+frmStartUp = 101, 192, 628, 668, C, 0, 0, 0, 0, C
+basADO = 15, 55, 703, 680, C
+basErrorMsg = 40, 180, 697, 822, C
+basFiles = 110, 110, 638, 586, C
+basFlexGrid = 132, 132, 660, 608, C
+basMain = 4, 22, 747, 642, C
+basNumerics = 22, 22, 663, 498, C
+frmGetDate = 94, 143, 621, 619, C, 0, 0, 0, 0, C
+basDB = 0, 0, 0, 0, C
+Module1 = 0, 7, 883, 690, 
+libUtilities = 0, 0, 0, 0, C
